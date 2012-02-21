@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="4D0C7C50-930A-41AE-91DF-CFE778224DD9" ModuleId="SimpleBlog_MVC4.Core" />
+  <Module PersistentId="9F372124-694F-467A-A396-343144517574" ModuleId="SimpleBlog_MVC4.Domain" />
+  <Module PersistentId="E842EC2D-BE38-4D22-A240-9558F53F7E87" ModuleId="SimpleBlog_MVC4.Web" />
+  <Module PersistentId="976B9A04-671D-4887-8A2D-D4A8334A31A5" ModuleId="SimpleBlog_MVC4.UnitTests" />
+</Modules>

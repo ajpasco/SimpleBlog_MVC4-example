@@ -1,0 +1,5 @@
+c:\users\apasco\documents\visual studio 2010\Projects\SimpleBlog_MVC4\SimpleBlog_MVC4.Domain\bin\Debug\SimpleBlog_MVC4.Domain.dll
+c:\users\apasco\documents\visual studio 2010\Projects\SimpleBlog_MVC4\SimpleBlog_MVC4.Domain\bin\Debug\SimpleBlog_MVC4.Domain.pdb
+c:\users\apasco\documents\visual studio 2010\Projects\SimpleBlog_MVC4\SimpleBlog_MVC4.Domain\obj\Debug\ResolveAssemblyReference.cache
+c:\users\apasco\documents\visual studio 2010\Projects\SimpleBlog_MVC4\SimpleBlog_MVC4.Domain\obj\Debug\SimpleBlog_MVC4.Domain.dll
+c:\users\apasco\documents\visual studio 2010\Projects\SimpleBlog_MVC4\SimpleBlog_MVC4.Domain\obj\Debug\SimpleBlog_MVC4.Domain.pdb

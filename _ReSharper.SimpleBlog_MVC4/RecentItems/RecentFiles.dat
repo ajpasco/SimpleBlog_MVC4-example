@@ -1,0 +1,65 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/d:Content/f:Site.css" caret="0" fromTop="0" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/f:Web.config" caret="687" fromTop="13" />
+    <File id="4D0C7C50-930A-41AE-91DF-CFE778224DD9/d:Repostory/f:RavenRepository.cs" caret="536" fromTop="12" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/f:Global.asax.cs" caret="1363" fromTop="6" />
+    <File id="4D0C7C50-930A-41AE-91DF-CFE778224DD9/d:Commands/f:AddNewPostCommand.cs" caret="135" fromTop="5" />
+    <File id="4D0C7C50-930A-41AE-91DF-CFE778224DD9/d:Commands/f:UpdatePostCommand.cs" caret="210" fromTop="9" />
+    <File id="4D0C7C50-930A-41AE-91DF-CFE778224DD9/d:Repostory/f:IRepository.cs" caret="143" fromTop="6" />
+    <File id="9F372124-694F-467A-A396-343144517574/d:Entities/f:Post.cs" caret="292" fromTop="11" />
+    <File id="976B9A04-671D-4887-8A2D-D4A8334A31A5/d:Helpers/f:TestData.cs" caret="259" fromTop="10" />
+    <File id="976B9A04-671D-4887-8A2D-D4A8334A31A5/d:Helpers/f:InMemRepository.cs" caret="215" fromTop="4" />
+    <File id="4D0C7C50-930A-41AE-91DF-CFE778224DD9/f:CommandInvoker.cs" caret="670" fromTop="18" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/d:Controllers/f:PostController.cs" caret="1285" fromTop="43" />
+    <File id="4D0C7C50-930A-41AE-91DF-CFE778224DD9/d:Infrastructure/f:DependencyContainer.cs" caret="373" fromTop="16" />
+    <File id="976B9A04-671D-4887-8A2D-D4A8334A31A5/d:Web/d:Controllers/f:PostControllerTests.cs" caret="740" fromTop="25" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/d:App_Start/f:NinjectMVC3.cs" caret="2333" fromTop="21" />
+    <File id="4D0C7C50-930A-41AE-91DF-CFE778224DD9/d:Queries/f:PostReadQueries.cs" caret="402" fromTop="0" />
+    <File id="4D0C7C50-930A-41AE-91DF-CFE778224DD9/d:CommandHandlers/f:UpdatePostCommandHandler.cs" caret="729" fromTop="21" />
+    <File id="4D0C7C50-930A-41AE-91DF-CFE778224DD9/d:CommandHandlers/f:DeletePostCommandHandler.cs" caret="362" fromTop="10" />
+    <File id="4D0C7C50-930A-41AE-91DF-CFE778224DD9/d:CommandHandlers/f:AddNewPostCommandHandler.cs" caret="160" fromTop="5" />
+    <File id="4D0C7C50-930A-41AE-91DF-CFE778224DD9/d:Commands/f:DeletePostCommand.cs" caret="231" fromTop="9" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/d:Views/d:Shared/f:_Layout.cshtml" caret="870" fromTop="9" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/d:Scripts/d:blog/f:blog.views.js" caret="165" fromTop="5" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/d:Scripts/d:blog/f:blog.routing.js" caret="211" fromTop="7" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/d:Scripts/d:blog/f:blog.collection.js" caret="104" fromTop="2" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/d:Scripts/f:namespace.js" caret="33" fromTop="2" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/d:Scripts/d:blog/f:blog.model.js" caret="0" fromTop="0" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/d:Scripts/d:blog/f:blog.js" caret="60" fromTop="4" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/d:Views/d:Home/f:Index.cshtml" caret="715" fromTop="20" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/d:Controllers/f:HomeController.cs" caret="951" fromTop="30" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="4D0C7C50-930A-41AE-91DF-CFE778224DD9/d:CommandHandlers/f:UpdatePostCommandHandler.cs" caret="729" fromTop="21" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/d:Controllers/f:PostController.cs" caret="1832" fromTop="9" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/d:Controllers/f:PostController.cs" caret="2397" fromTop="22" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/d:Controllers/f:PostController.cs" caret="2366" fromTop="14" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/d:Controllers/f:PostController.cs" caret="2255" fromTop="12" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/d:Controllers/f:PostController.cs" caret="2706" fromTop="35" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/d:Controllers/f:PostController.cs" caret="2898" fromTop="17" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/d:Controllers/f:PostController.cs" caret="3145" fromTop="26" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/d:Controllers/f:PostController.cs" caret="2153" fromTop="16" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/d:Controllers/f:PostController.cs" caret="1134" fromTop="4" />
+    <File id="976B9A04-671D-4887-8A2D-D4A8334A31A5/d:Web/d:Controllers/f:PostControllerTests.cs" caret="929" fromTop="13" />
+    <File id="976B9A04-671D-4887-8A2D-D4A8334A31A5/d:Helpers/f:InMemRepository.cs" caret="0" fromTop="0" />
+    <File id="976B9A04-671D-4887-8A2D-D4A8334A31A5/d:Helpers/f:InMemRepository.cs" caret="377" fromTop="11" />
+    <File id="976B9A04-671D-4887-8A2D-D4A8334A31A5/d:Helpers/f:InMemRepository.cs" caret="377" fromTop="13" />
+    <File id="976B9A04-671D-4887-8A2D-D4A8334A31A5/d:Helpers/f:InMemRepository.cs" caret="223" fromTop="8" />
+    <File id="976B9A04-671D-4887-8A2D-D4A8334A31A5/d:Helpers/f:InMemRepository.cs" caret="483" fromTop="15" />
+    <File id="976B9A04-671D-4887-8A2D-D4A8334A31A5/d:Helpers/f:InMemRepository.cs" caret="577" fromTop="20" />
+    <File id="976B9A04-671D-4887-8A2D-D4A8334A31A5/d:Helpers/f:InMemRepository.cs" caret="681" fromTop="25" />
+    <File id="976B9A04-671D-4887-8A2D-D4A8334A31A5/d:Web/d:Controllers/f:PostControllerTests.cs" caret="333" fromTop="10" />
+    <File id="976B9A04-671D-4887-8A2D-D4A8334A31A5/d:Helpers/f:TestData.cs" caret="333" fromTop="14" />
+    <File id="976B9A04-671D-4887-8A2D-D4A8334A31A5/d:Helpers/f:TestData.cs" caret="668" fromTop="19" />
+    <File id="976B9A04-671D-4887-8A2D-D4A8334A31A5/d:Web/d:Controllers/f:PostControllerTests.cs" caret="406" fromTop="15" />
+    <File id="4D0C7C50-930A-41AE-91DF-CFE778224DD9/d:Infrastructure/f:DependencyContainer.cs" caret="304" fromTop="17" />
+    <File id="4D0C7C50-930A-41AE-91DF-CFE778224DD9/d:Infrastructure/f:DependencyContainer.cs" caret="99" fromTop="4" />
+    <File id="4D0C7C50-930A-41AE-91DF-CFE778224DD9/f:CommandInvoker.cs" caret="559" fromTop="18" />
+    <File id="4D0C7C50-930A-41AE-91DF-CFE778224DD9/f:CommandInvoker.cs" caret="803" fromTop="26" />
+    <File id="976B9A04-671D-4887-8A2D-D4A8334A31A5/d:Web/d:Controllers/f:PostControllerTests.cs" caret="931" fromTop="18" />
+    <File id="4D0C7C50-930A-41AE-91DF-CFE778224DD9/d:Infrastructure/f:DependencyContainer.cs" caret="193" fromTop="9" />
+    <File id="976B9A04-671D-4887-8A2D-D4A8334A31A5/d:Web/d:Controllers/f:PostControllerTests.cs" caret="740" fromTop="25" />
+    <File id="E842EC2D-BE38-4D22-A240-9558F53F7E87/d:App_Start/f:NinjectMVC3.cs" caret="2814" fromTop="28" />
+  </RecentEdits>
+</RecentFiles>
